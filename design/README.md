@@ -11,3 +11,4 @@ This directory contains design resources for the project. The designs are create
 - Download the exported files from this directory for integration into the project.
 
 Feel free to reach out if you need additional design resources or assistance.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/UmFkz0QAdHD1fHuLbNyDl9/CodeinAja?node-id=0-1&embed-host=share" allowfullscreen></iframe>
